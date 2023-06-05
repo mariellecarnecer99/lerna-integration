@@ -2,6 +2,10 @@
   "name": "remixapp",
   "private": false,
   "sideEffects": false,
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org/"
+  },
   "scripts": {
     "build": "remix build",
     "dev": "remix dev",
@@ -28,6 +32,5 @@
   "engines": {
     "node": ">=14"
   },
-  "version": "1.0.10",
-  "gitHead": "5f2ae7dbb08d677e17098eb2e9be40f3c24e2d8b"
+  "version": "1.0.11"
 }
