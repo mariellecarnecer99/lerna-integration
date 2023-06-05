@@ -1,6 +1,6 @@
 {
   "name": "@mcarnecer/test-package-1",
-  "version": "1.0.9",
+  "version": "1.0.10",
   "main": "dist/index.js",
   "scripts": {
     "build": "rimraf dist && rollup --config",
@@ -22,5 +22,5 @@
   "devDependencies": {
     "rimraf": "^3.0.2"
   },
-  "gitHead": "5ae69170cce9d23108a19efbe4f87b9e94bcebf0"
+  "gitHead": "5f2ae7dbb08d677e17098eb2e9be40f3c24e2d8b"
 }

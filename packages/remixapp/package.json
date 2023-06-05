@@ -28,5 +28,6 @@
   "engines": {
     "node": ">=14"
   },
-  "version": "1.0.9"
+  "version": "1.0.10",
+  "gitHead": "5f2ae7dbb08d677e17098eb2e9be40f3c24e2d8b"
 }
