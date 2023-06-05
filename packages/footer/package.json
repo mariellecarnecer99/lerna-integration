@@ -1,6 +1,6 @@
 {
-  "name": "@mcarnecer/test-package-2",
-  "version": "1.0.11",
+  "name": "footer",
+  "version": "1.0.12",
   "main": "dist/index.js",
   "scripts": {
     "build": "rimraf dist && rollup --config",
@@ -22,5 +22,5 @@
   "devDependencies": {
     "rimraf": "^3.0.2"
   },
-  "gitHead": "1bda114660e15e6a7765fbf4d588a8e0f38cd24a"
+  "gitHead": "a8eea89e25facc9c70bc1b9ef1b0cd79f91829e0"
 }

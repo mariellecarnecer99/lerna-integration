@@ -1,6 +1,6 @@
 {
-  "name": "@mcarnecer/test-package-3",
-  "version": "1.0.11",
+  "name": "integration",
+  "version": "1.0.12",
   "description": "> TODO: description",
   "author": "maynion <mcarnecer@startechup.com>",
   "homepage": "https://github.com/lerna/getting-started-example#readme",
@@ -24,7 +24,7 @@
     "url": "https://github.com/lerna/getting-started-example/issues"
   },
   "dependencies": {
-    "header": "^1.0.3"
+    "header": "^1.0.12"
   },
-  "gitHead": "1bda114660e15e6a7765fbf4d588a8e0f38cd24a"
+  "gitHead": "a8eea89e25facc9c70bc1b9ef1b0cd79f91829e0"
 }

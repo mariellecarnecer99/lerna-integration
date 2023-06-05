@@ -16,8 +16,8 @@
     "@remix-run/node": "^1.5.1",
     "@remix-run/react": "^1.5.1",
     "@remix-run/serve": "^1.5.1",
-    "footer": "^1.0.3",
-    "header": "^1.0.3",
+    "footer": "^1.0.12",
+    "header": "^1.0.12",
     "react": "18.1.0",
     "react-dom": "18.1.0"
   },
@@ -32,5 +32,6 @@
   "engines": {
     "node": ">=14"
   },
-  "version": "1.0.11"
+  "version": "1.0.12",
+  "gitHead": "a8eea89e25facc9c70bc1b9ef1b0cd79f91829e0"
 }
