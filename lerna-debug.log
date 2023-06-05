@@ -1,12 +1,5 @@
-0 silly argv {
-0 silly argv   _: [ 'add' ],
-0 silly argv   scope: 'integration',
-0 silly argv   globs: [],
-0 silly argv   lernaVersion: '6.6.2',
-0 silly argv   '$0': 'lerna',
-0 silly argv   pkg: 'packages/remixapp'
-0 silly argv }
-1 notice cli v6.6.2
-2 verbose rootPath /Users/mariellecarnecer/Developer/getting-started-example
-3 error Error: An unknown git error occurred
-3 error     at makeError (/Users/mariellecarnecer/.nvm/versions/node/v16.14.2/lib/node_modules/lerna/node_modules/@npmcli/git/lib/make-error.js:28:13)
+48 error Error: Command failed with exit code 128: git push --follow-tags --no-verify --atomic origin prelerna
+48 error remote: Permission to lerna/getting-started-example.git denied to mariellecarnecer99.
+48 error fatal: unable to access 'https://github.com/lerna/getting-started-example.git/': The requested URL returned error: 403
+48 error     at makeError (/Users/mariellecarnecer/Developer/getting-started-example/node_modules/execa/lib/error.js:59:11)
+48 error     at handlePromise (/Users/mariellecarnecer/Developer/getting-started-example/node_modules/execa/index.js:114:26)
