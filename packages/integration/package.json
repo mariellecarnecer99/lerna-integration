@@ -1,6 +1,6 @@
 {
   "name": "@mcarnecer/test-package-3",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": "> TODO: description",
   "author": "maynion <mcarnecer@startechup.com>",
   "homepage": "https://github.com/lerna/getting-started-example#readme",
@@ -26,5 +26,5 @@
   "dependencies": {
     "header": "^1.0.3"
   },
-  "gitHead": "bd14ec11fb0ab5167fba7ef7f148d7b31fa583f7"
+  "gitHead": "5ae69170cce9d23108a19efbe4f87b9e94bcebf0"
 }
