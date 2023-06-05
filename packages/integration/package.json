@@ -1,6 +1,6 @@
 {
-  "name": "integration-test",
-  "version": "1.0.5",
+  "name": "test-package-1",
+  "version": "1.0.6",
   "description": "> TODO: description",
   "author": "maynion <mcarnecer@startechup.com>",
   "homepage": "https://github.com/lerna/getting-started-example#readme",
@@ -26,5 +26,5 @@
   "dependencies": {
     "header": "^1.0.3"
   },
-  "gitHead": "d4f9b03b4272362563cb4ff948466ba2cf3ab973"
+  "gitHead": "f77f664ae8f01b8c55d999d875afe8d8cc8ae452"
 }
