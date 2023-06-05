@@ -1,6 +1,6 @@
 {
   "name": "integration",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "> TODO: description",
   "author": "maynion <mcarnecer@startechup.com>",
   "homepage": "https://github.com/lerna/getting-started-example#readme",
@@ -26,5 +26,5 @@
   "dependencies": {
     "header": "^1.0.3"
   },
-  "gitHead": "cf103045f3a451bbf01825d360580d56f7951a5a"
+  "gitHead": "256a8d171a016caa4a3a8ded8dedfb5c65fe1050"
 }
